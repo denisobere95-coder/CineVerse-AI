@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse AI",
+  "description": "Universal legal entertainment hub to discover, organize, and access content across streaming platforms with AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
